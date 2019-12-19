@@ -1,0 +1,1 @@
+alert("nu gal dabar gaunasi");
